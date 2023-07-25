@@ -1,0 +1,3 @@
+Siri,
+Tell me a joke.
+Is it going to rain tomorrow?
